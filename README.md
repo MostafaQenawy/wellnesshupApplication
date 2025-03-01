@@ -38,7 +38,7 @@ We take reasonable security measures to protect your data from unauthorized acce
    
 We store your data as long as you use our app. If you request deletion, we remove your data from our systems.
 
-**User Data Deletion Instructions**
+# User Data Deletion Instructions
    
 You have the right to request deletion of your personal data. You can delete your account and data by:
 1. Contacting Us: Send an email to [wellness.hub.app@gmail.com] with the subject "Delete My Data".
